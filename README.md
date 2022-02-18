@@ -1,2 +1,2 @@
-# h_MADQN for P2P energy trading
-This repository contains the detailed simulation parameters of MGs for the paper "Hierarchical Multi-Agent Deep Reinforcement Learning for Peer-to-Peer Energy Trading among Multiple Heterogeneous Microgrids". (Please refer to the Simulation parameters of MGs.pdf file)
+# Hierarchical Multi-Agent Deep Reinforcement Learning for Peer-to-Peer Energy Trading among Multiple Heterogeneous Microgrids
+This repository contains the detailed simulation parameters of MGs and the proof of theorem 1 for the paper "Hierarchical Multi-Agent Deep Reinforcement Learning for Peer-to-Peer Energy Trading among Multiple Heterogeneous Microgrids". (Please refer to the "Simulation parameters of MGs.pdf" and "Proof of Theorem 1.pdf" files)
